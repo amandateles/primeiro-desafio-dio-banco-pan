@@ -1,0 +1,35 @@
+# Anotaçoes bootcamp dio banco-pan 
+
+## Comandos Git
+
+1. git config == quando o git for utilizado pela primeira vez ou após uma atualização
+> $ git config –global user.name “Seu nome”
+> $ git config –global user.email “Seu email”
+
+2. git init == utilizado para criar um novo repositório vazio
+> $ git init
+> $ git init <nome-do-repositório>
+
+3. git clone == clona um repositório já existente 
+> $ git clone <URL do repositório>
+
+4. git add == adiciona arquivos modificados ao repositório
+> $ git add nome-arquivo
+> $ git add .
+
+5. git commi
+> $ git commit -m "comentário do commit"
+
+6. git baranch == criar, renomer, listar e excluir ramificações
+> $ git branch (lista todas as ramificações)
+> $ git branch <nome_do_branch> (cria um branch com o nome especificado)
+> $ git branch -d <nome_do_branch> (deleta o branch com o nome especificado)
+
+7. git checkout == responsável para mudar de uma ramificação para outra
+> $ git checkout <nome-do-branch>
+
+8. git push == subir as modificações para um epositório remoto 
+> $ git push
+
+9. git help ==  comando git para ajuda
+> $ git help <comando que se tem dúvida>
