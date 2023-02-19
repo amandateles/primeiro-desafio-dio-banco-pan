@@ -1,2 +1,3 @@
 # Desafio-dio-banco-pan
-Repositório para desafio de projeto sobre Git/Github.
+Repositório para os desafios do bootcamp da DIO em parceria ao Banco Pan.
+
