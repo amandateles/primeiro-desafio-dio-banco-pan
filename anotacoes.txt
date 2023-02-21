@@ -1,9 +1,9 @@
 # Anotaçoes bootcamp dio banco-pan 
 
-## Comandos Git
+## Comandos básicos Git
 
 1. git config == quando o git for utilizado pela primeira vez ou após uma atualização
-> $ git config –global user.name “Seu nome”
+> $ git config –global user.name “Seu nome"
 > $ git config –global user.email “Seu email”
 
 2. git init == utilizado para criar um novo repositório vazio
